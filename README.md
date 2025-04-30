@@ -91,12 +91,7 @@ It supports:
 
 ```bash
 $ python final_artifact.py
-Please enter the GitHub repository README URL: https://github.com/uw-comphys/opencmp/blob/main/README.md ```
+Please enter the GitHub repository README URL: https://github.com/uw-comphys/opencmp/blob/main/README.md 
 
 ✅ Repository 'opencmp' is classified as Research Software.
 ✅ Suggested Academic Domain: Mechanical Engineering 
-
-## 🧑‍💻 Author
-
-**B. M. Bruntink**  
-MSc Business Informatics, Utrecht University
