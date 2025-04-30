@@ -74,10 +74,10 @@ It supports:
    git clone https://github.com/brittbruntink/RS_Classification
    cd your-repo
 
-2. ** Install dependencies
+2. **Install dependencies**
    pip install -r requirements.txt
 
-3. Run the final artifact
+3. **Run the final artifact**
    python final_artifact.py
 
    You will be prompted for a GitHub README URL. The script will print:
