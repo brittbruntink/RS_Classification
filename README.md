@@ -92,7 +92,7 @@ $ python final_artifact.py
 Please enter the GitHub repository README URL: https://github.com/uw-comphys/opencmp/blob/main/README.md
 
 ✅ Repository 'opencmp' is classified as Research Software.
-✅ Suggested Academic Domain: Mechanical Engineering
+✅ Suggested Academic Domain: Mechanical Engineering ```
 
 ## 🧑‍💻 Author
 
