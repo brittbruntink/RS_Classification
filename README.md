@@ -41,13 +41,13 @@ It supports:
 | **Model training & evaluation**              |                                                                                               |
 | hyperparameter_search_RS_NRS.py              | Grid-search for RS-vs-NRS TF-IDF & model params                                              |
 | train_RS_NRS_classifiers_fixed.py            | Train RS-vs-NRS (text-only) with final hyperparams                                           |
-| train_RS_NRS_classifiers_multimodal.py       | Train RS-vs-NRS (multimodal) and save best model/vectorizer                                  |
+| train_RS_NRS_classifiers_mm.py                | Train RS-vs-NRS (multimodal) and save best model/vectorizer                                  |
 | train_domain_classifiers.py                  | Train domain classifier on paper abstracts                                                   |
 | **Benchmarks vs. ChatGPT**                   |                                                                                               |
 | RS_NRS_benchmark_chat.py                     | Compare RS-vs-NRS against GPT-4                                                              |
 | RS_domain_benchmark_chat.py                  | Compare domain classifier against GPT-4                                                      |
 | **Feature analysis**                         |                                                                                               |
-| extract_multimodal_feature_importance.py     | Plot top-k multimodal features (text + metadata)                                             |
+| multimodal_feature_importance.py              | Plot top-k multimodal features (text + metadata)                                             |
 | **Final artifact**                           |                                                                                               |
 | final_artifact.py                            | CLI tool: input README URL → classify RS/NRS + suggest domain                                |
 | **Models & Transformers**                    |                                                                                               |
