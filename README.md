@@ -75,9 +75,11 @@ It supports:
    cd your-repo
 
 2. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
 
 3. **Run the final artifact**
+   ```bash
    python final_artifact.py
 
    You will be prompted for a GitHub README URL. The script will print:
@@ -92,7 +94,7 @@ $ python final_artifact.py
 Please enter the GitHub repository README URL: https://github.com/uw-comphys/opencmp/blob/main/README.md
 
 ✅ Repository 'opencmp' is classified as Research Software.
-✅ Suggested Academic Domain: Mechanical Engineering ```
+✅ Suggested Academic Domain: Mechanical Engineering 
 
 ## 🧑‍💻 Author
 
